@@ -4,7 +4,7 @@
 **anilraje122/anilraje122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Anil's github stats] (https://github-readme-stats.vercel.app/api?username=anilraje122&show_icons=true&count_private=true&theme=dark)
+![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilraje122&show_icons=true&count_private=true&theme=dark)
 
 - 🔭 I’m currently working on DevOps and AWS
 - 🌱 I’m currently learning Web Development with React & Node Js
