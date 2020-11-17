@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on DevOps and AWS
 - 🌱 I’m currently learning Web Development with React & Node Js
-- 💬 Ask me about my journey from system adminstrator to developer
+<!-- - 💬 Ask me about my journey from system adminstrator to developer -->
 - 📫 How to reach me: anilraje122@gmail.com
 - ⚡ Fun fact: I'm busy building my second career in web development 😄
 
