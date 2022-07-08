@@ -5,7 +5,7 @@
 ### Hello, I'm Anil 👋
 
 - 🔭 I’m currently working as DevOps Engineer
-- 🌱 I’m currently learning MERN stack and Python
+- 🌱 I’m currently learning K8S and Python
 - 📫 How to reach me: anilraje122@gmail.com
 <!-- - 💬 Ask me about my journey from system adminstrator to devops engineer -->
 
